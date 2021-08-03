@@ -1,0 +1,119 @@
+body
+{
+	background-color:black;
+}
+#main
+{
+ background-color:white;
+ height:1280px;
+ width:1280px;
+ margin:auto;
+}
+#header
+{
+background-color:white;
+ height:100px;
+ width:1280px;
+  float:left;  
+}	
+#logo
+{
+	background-image:url("logo3.png");
+	height:94;
+	width:117;	
+	margin:10 20 20 20;
+	float:left;
+}
+#menus
+{
+background-color:white;
+	height:70;
+	width:1280;
+	margin:00 00 00 00;	
+	float:left;
+	display:block;
+}
+
+#m1
+{
+	background-color:block;
+	height:70;
+	width:800;
+	float:left;
+}
+ul
+{
+
+list-style-type:none;
+		
+}
+	
+ul li
+{
+	
+	display:inline-block;
+	
+}
+ul li a
+{
+	text-decoration:none;
+	font-size:20;
+	font-family:arial;
+	color:black;
+	padding:5 0 0 5;
+	border:20;
+	
+}
+#m1 ul li a:hover
+{
+	background:white;
+	color:red;
+} 
+}
+#m2
+{
+	background-color:block;
+	height:70;
+	width:300;
+	float:right;
+}
+ul
+{
+	list-style-type:none;
+	text-align:left;
+	display:block;	
+}
+ul li
+{
+	display:inline-block;
+	padding:10 0 0 10;
+	background-color:white;
+}
+ul li a
+{
+	text-decoration:none;
+	font-size:20;
+	font-family:arial;
+	color:black;
+	padding:5 0 0 5;
+	border:20;	
+}
+ul li a:hover
+{
+	background:white;
+	color:red;
+}	
+#midblock
+{
+	background-color:white;
+	height:100;
+	width:1280;
+	float:left;
+}
+#midblock2
+{
+	background-color:white;
+	height:800;
+	width:1280;
+	float:left;
+}

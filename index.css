@@ -1,0 +1,187 @@
+body
+{
+	background-image:url("body.jpg");
+	height:100%;
+}
+#main
+{
+ background-color:white;
+ height:1580px;
+ width:1280px;
+ margin:auto;
+}
+#header
+{
+background-color:white;
+ height:100px;
+ width:1280px;
+  float:left;  
+}	
+#logo
+{
+	background-image:url("logo3.png");
+	height:94;
+	width:117;	
+	margin:10 20 20 20;
+	float:left;
+}
+#menus
+{
+background-color:white;
+	height:70;
+	width:1280;
+	margin:00 00 00 00;	
+	float:left;
+	display:block;
+}
+
+#m1
+{
+	background-color:block;
+	height:70;
+	width:800;
+	float:left;
+}
+ul
+{
+
+list-style-type:none;
+		
+}
+	
+ul li
+{
+	
+	display:inline-block;
+	
+}
+ul li a
+{
+	text-decoration:none;
+	font-size:20;
+	font-family:arial;
+	color:black;
+	padding:5 0 0 5;
+	border:20;
+	
+}
+#m1 ul li a:hover
+{
+	background:white;
+	color:red;
+} 
+}
+#m2
+{
+	background-color:block;
+	height:70;
+	width:300;
+	float:right;
+}
+ul
+{
+	list-style-type:none;
+	text-align:left;
+	display:block;	
+}
+ul li
+{
+	display:inline-block;
+	padding:10 0 0 10;
+	background-color:white;
+}
+ul li a
+{
+	text-decoration:none;
+	font-size:20;
+	font-family:arial;
+	color:black;
+	padding:5 0 0 5;
+	border:20;	
+}
+ul li a:hover
+{
+	background:white;
+	color:red;
+}	
+#slider
+{
+	background-color:#7d0b22;
+ height:450px;
+ width:1280px;
+ float:left;
+}
+#foot
+{
+background-color:black;
+ height:300px;
+ width:1280px;
+ 
+}
+#foot1
+{
+background-image:url("ord.png");
+ height:400px;
+ width:640px;
+ margin:0 600 0 0;
+ float:left;
+}
+#foot2
+{
+background-image:url("ORDER.png");
+ height:400px;
+ width:640px;
+ float:right;
+ margin:-400 0 0 640;
+}
+#footer
+{
+	background-color:#d5deeb;
+	height:240;
+	width:1280;
+	margin:-240 111 0 50;
+	float:right;
+}
+#footer1
+{
+	background-color:white;
+	height:240;
+	width:640;
+	float:left;
+}
+#footer2
+{
+	background-color:white;
+	height:240;
+	width:640;
+	float:right;
+}
+#f1
+{
+	background-color:red;
+	height:40;
+	width:350;
+	margin:0 50 0 180;
+	float:left;
+}
+.fb
+{
+	margin-left:170;
+}
+.insta
+{
+	margin-left:10;
+}
+.youtube	
+{
+	margin-left:110;
+	margin-top:-43;
+}
+#footl
+{
+	background-color:red;
+	height:200;
+	width:1280;
+	float:left;
+	margin:0 50 0 113;
+}

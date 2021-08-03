@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Web Page
+</title>
+<link href="index.css"rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="main">
+<div="header>
+<div="bar"></div>
+</div>
+<div id="menus">
+<div id="m1">
+<ul>
+				<li><a href="index.html">movies</a></li>
+				    <li><a href="snacks.html">tv series</a></li>
+						<li> <a href="about.html">audio</a></li>
+							</ul>	
+							</div>
+<div="mid">
+</div>
+<div="down">
+<div="part1">
+</div>
+<div="part2">
+</div>
+<div="footer">
+</div>
+
